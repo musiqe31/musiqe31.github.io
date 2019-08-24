@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06e0adb5.chunk.css",
+    "main.js": "/static/js/main.2b030f32.chunk.js",
+    "main.js.map": "/static/js/main.2b030f32.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.be8c5f0d.chunk.js": "/static/js/2.be8c5f0d.chunk.js",
+    "static/js/2.be8c5f0d.chunk.js.map": "/static/js/2.be8c5f0d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a2e4c0beea2000dd745ee58118632c3b.js": "/precache-manifest.a2e4c0beea2000dd745ee58118632c3b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.06e0adb5.chunk.css.map": "/static/css/main.06e0adb5.chunk.css.map",
+    "static/media/c.png": "/static/media/c.e8460f0d.png",
+    "static/media/cup.webp": "/static/media/cup.7ebbed56.webp",
+    "static/media/droid.jpg": "/static/media/droid.c5b61c35.jpg",
+    "static/media/eagles.png": "/static/media/eagles.69a5f8ab.png",
+    "static/media/htm.png": "/static/media/htm.126e68aa.png",
+    "static/media/java.png": "/static/media/java.74e943d8.png",
+    "static/media/js.png": "/static/media/js.87f2b688.png",
+    "static/media/logo.png": "/static/media/logo.596a7957.png",
+    "static/media/me.jpg": "/static/media/me.8e743f60.jpg",
+    "static/media/sql.png": "/static/media/sql.476f81a1.png",
+    "static/media/state.png": "/static/media/state.2d75750b.png",
+    "static/media/stock.webp": "/static/media/stock.e913be3d.webp"
+  }
+}
